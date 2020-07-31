@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Maurício Sotelo (🇧🇷) and I’m currently learning React :atom_symbol:
+
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maurício-torquetti-sotelo-183a14170)](https://www.linkedin.com/in/maurício-torquetti-sotelo-183a14170)
+
 <!--
 **mautsotelo/mautsotelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
