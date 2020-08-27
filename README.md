@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maurício Sotelo (🇧🇷) and I’m currently learning React :atom_symbol:
+My name is Maurício Sotelo (🇧🇷)
 
 
 Would you like to find me?
