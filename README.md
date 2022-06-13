@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/mautsotelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mautsotelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautsotelo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautsotelo&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Mau-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
