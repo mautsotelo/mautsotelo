@@ -1,11 +1,12 @@
 ## Hi there! I'm Maurício Sotelo 
- <div>
+<p align="center">
   <a href="https://github.com/mautsotelo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mautsotelo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautsotelo&layout=compact&theme=dark"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mautsotelo&theme=github-dark-blue&hide_border=true" />
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mautsotelo&theme=react-dark" />
-</div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mautsotelo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautsotelo&layout=compact&theme=dark"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mautsotelo&theme=github-dark-blue&hide_border=true" />
+   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mautsotelo&theme=react-dark" />
+  </a>
+</p>
 <div style="display: inline_block"><br>
  <img align="center" alt="Mau-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Mau-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
