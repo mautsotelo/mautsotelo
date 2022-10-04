@@ -1,8 +1,12 @@
 ## Hi there! I'm Maurício Sotelo 
  <div>
+  <p align="center">
   <a href="https://github.com/mautsotelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mautsotelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=contribs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautsotelo&layout=compact&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mautsotelo&theme=github-dark-blue&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mautsotelo&theme=react-dark" />
+  </p>
 </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Mau-VUE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
